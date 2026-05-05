@@ -21,7 +21,7 @@ Il sistema si divide in due modalità operative:
 - Aggiunta di nuovi film specificando titolo e capienza della sala.
 - Modifica del titolo dei film esistenti.
 - Rimozione dei film (bloccata in automatico se ci sono biglietti già venduti).
-- **Gestione Resi**: possibilità di cliccare sui posti già occupati (rossi) per rimborsare il biglietto e liberare immediatamente il posto.
+- **Gestione Resi**: possibilità di cliccare sui posti già occupati per rimborsare il biglietto e liberare immediatamente il posto.
 
 ## 💻 Stack Tecnologico
 - **Linguaggio Base**: Java (con Stream API e Lambda)
@@ -33,9 +33,9 @@ Il sistema si divide in due modalità operative:
 
 1. Clona il repository sul tuo computer:
    ```bash
-   git clone https://github.com/tuo-username/nome-repo.git
+   git clone https://github.com/Domenicos97/CinemaBookingSystem.git
    ```
-2. Apri il progetto con il tuo IDE (Eclipse, IntelliJ IDEA, ecc.).
+2. Apri il progetto con il tuo IDE.
 3. Assicurati che la libreria per la generazione dei PDF sia inclusa nel Build Path.
 4. Esegui la classe `Main`
 
