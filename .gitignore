@@ -1,0 +1,33 @@
+# File compilati Java
+*.class
+/bin/
+/out/
+/build/
+/target/
+
+# Configurazioni IDE - Eclipse
+.settings/
+.project
+.classpath
+.metadata/
+
+# Configurazioni IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# File di sistema macOS/Windows
+.DS_Store
+Thumbs.db
+
+# Artefatti generati dall'applicazione
+Biglietto_*.pdf
+*.jar
+
+# File di database locali
+*.db
+cinema.db
+
+# Dipendenze
+dependency-reduced-pom.xml
+.gradle/
