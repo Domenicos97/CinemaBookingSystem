@@ -20,14 +20,14 @@ Il sistema si divide in due modalità operative:
 ### 🛠️ Modalità Amministratore (Gestione)
 - Aggiunta di nuovi film specificando titolo e capienza della sala.
 - Modifica del titolo dei film esistenti.
-- Rimozione dei film (bloccata in automatico se ci sono biglietti già venduti).
+- Rimozione dei film.
 - **Gestione Resi**: possibilità di cliccare sui posti già occupati per rimborsare il biglietto e liberare immediatamente il posto.
 
 ## 💻 Stack Tecnologico
-- **Linguaggio Base**: Java (con Stream API e Lambda)
-- **Framework GUI**: Java Swing (gestione avanzata dei Layout Manager)
+- **Linguaggio Base**: Java
+- **Framework GUI**: Java Swing
 - **Struttura del Codice**: Separazione logica in Model, Service e UI
-- **Librerie Esterne**: OpenPDF (`com.lowagie.text`) per l'esportazione dei biglietti
+- **Librerie Esterne**: OpenPDF
 
 ## 🚀 Come eseguire il progetto
 
